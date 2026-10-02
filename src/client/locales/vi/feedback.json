@@ -1,0 +1,22 @@
+{
+  "action.dislike": "Phản hồi chưa tốt",
+  "action.dislikeActive": "Bỏ đánh giá",
+  "action.like": "Phản hồi tốt",
+  "action.likeActive": "Bỏ đánh giá",
+  "category.instruction-following": "Hiểu và làm theo chỉ dẫn",
+  "category.other": "Khác",
+  "category.product-interaction": "Tính năng và tương tác sản phẩm",
+  "category.resource-cost": "Mức dùng tài nguyên và chi phí",
+  "category.security-privacy-permission": "Bảo mật, quyền riêng tư và quyền",
+  "category.service-stability": "Độ ổn định và tốc độ",
+  "category.task-result": "Kết quả tác vụ",
+  "dialog.categories": "Loại phản hồi",
+  "dialog.detail": "Chi tiết phản hồi",
+  "dialog.hint": "Thêm chi tiết để giúp chúng tôi cải thiện. Nội dung gửi sẽ kèm nhật ký cuộc trò chuyện hiện tại.",
+  "dialog.title": "Gửi phản hồi",
+  "error.conflict": "Phản hồi này đã được thay đổi ở nơi khác; đang hiển thị trạng thái mới nhất",
+  "error.generic": "Không lưu được phản hồi",
+  "error.load": "Không tải được phản hồi",
+  "error.noteTooLarge": "Mô tả quá dài; hãy rút gọn rồi gửi lại",
+  "toast.recorded": "Cảm ơn phản hồi của bạn"
+}

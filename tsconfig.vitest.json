@@ -1,0 +1,10 @@
+{
+  // Type-checks src + tests + build config together; SDK types come from the
+  // @deepseek-ai/* devDependencies.
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "isolatedModules": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": ["src", "tests", "tsdown.config.ts", "tsdown.client.ts", "web-platform.ts", "vitest.config.ts"]
+}

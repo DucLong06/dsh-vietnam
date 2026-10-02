@@ -1,0 +1,19 @@
+{
+  "auto.badge": "Thử nghiệm",
+  "auto.confirm.acknowledge": "Tôi hiểu các rủi ro này và muốn tiếp tục",
+  "auto.confirm.description": "Tự động duyệt chạy không có sandbox. Trước mỗi lệnh gọi công cụ gốc và lệnh gọi bên trong PTC, chính mô hình của agent hiện tại sẽ xem xét có cho phép hay không; bạn duyệt hoặc từ chối từng lệnh gọi bị nó từ chối. Tính năng này đang thử nghiệm, có thể cho phép hoặc từ chối nhầm, và tốn thêm token.",
+  "auto.confirm.enable": "Bật Tự động duyệt",
+  "auto.confirm.title": "Bật Tự động duyệt (thử nghiệm)?",
+  "auto.description": "Chạy không có sandbox sau khi chính mô hình hiện tại xem xét (thử nghiệm) mọi lệnh gọi công cụ gốc và lệnh gọi bên trong PTC.",
+  "auto.label": "Tự động duyệt",
+  "close": "Đóng",
+  "confirm.acknowledge": "Tôi hiểu các rủi ro và muốn tiếp tục",
+  "confirm.cancel": "Hủy",
+  "confirm.description": "Toàn quyền giảm bớt bước xác nhận và cho phép agent trực tiếp làm nhiều việc hơn, kể cả thao tác nhạy cảm, thay đổi tệp hay chạy lệnh bên ngoài. Chỉ dùng khi bạn tin tưởng tác vụ hiện tại.",
+  "confirm.enable": "Bật Toàn quyền",
+  "confirm.title": "Bật Toàn quyền?",
+  "mode": "Chế độ truy cập, hiện tại: {name}",
+  "preset.fullAccess": "Toàn quyền",
+  "preset.readOnly": "Chỉ đọc",
+  "preset.workspaceWrite": "Ghi trong không gian làm việc"
+}

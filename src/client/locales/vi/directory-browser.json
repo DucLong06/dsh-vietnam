@@ -1,0 +1,15 @@
+{
+  "browser.cancel": "Hủy",
+  "browser.create": "Tạo",
+  "browser.createIn": "Thư mục mới trong \"{name}\"",
+  "browser.editPath": "Sửa đường dẫn",
+  "browser.folderName": "Tên thư mục",
+  "browser.home": "Thư mục chính",
+  "browser.loading": "Đang tải…",
+  "browser.newFolder": "Thư mục mới",
+  "browser.open": "Mở",
+  "browser.showHidden": "Hiện tệp ẩn",
+  "browser.title": "Chọn thư mục không gian làm việc",
+  "browser.truncated": "Quá nhiều thư mục để liệt kê; chỉ hiển thị phần đầu.",
+  "browser.untitledFolder": "Thư mục chưa đặt tên"
+}
