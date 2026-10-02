@@ -1,0 +1,5 @@
+# DSH Việt Nam bundle patch: inserts the plugin row into the profile's plugin
+# roster. Install with `dsh plugin --profile web add <path-or-git-url>`.
+- insert:
+    - id: dsh-vietnam
+      name: dsh-vietnam

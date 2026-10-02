@@ -1,0 +1,20 @@
+{
+  "apiKey": "API key",
+  "apiKeyHint": "Được lưu ngoài tệp cài đặt. Để trống để giữ key hiện tại.",
+  "apiKeySet": "Đã cấu hình key.",
+  "apiKeyUnset": "Chưa cấu hình key; chỉ các cuộc trò chuyện dùng mô hình Tài khoản DeepSeek mới tìm kiếm được, qua endpoint mặc định.",
+  "baseUrl": "Endpoint",
+  "baseUrlHint": "Để trống để dùng mặc định của nhà cung cấp.",
+  "description": "Thiết lập nhà cung cấp tìm kiếm DeepSeek.",
+  "invalidNumber": "Nhập một số, hoặc để trống để dùng mặc định.",
+  "maxUses": "Số lần tìm tối đa mỗi yêu cầu",
+  "maxUsesHint": "Số lần một yêu cầu được tìm kiếm trước khi phải trả lời.",
+  "overridden": "Đã ghi đè",
+  "readOnly": "Bản triển khai này lưu cài đặt ở chế độ chỉ đọc.",
+  "reset": "Khôi phục mặc định",
+  "save": "Lưu",
+  "saveFailed": "Bản triển khai không chấp nhận các giá trị này; chúng được giữ lại để bạn sửa.",
+  "saving": "Đang lưu…",
+  "title": "Tìm kiếm web",
+  "unavailable": "Plugin này chưa được tải nên hiện chưa thể cấu hình."
+}

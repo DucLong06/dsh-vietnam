@@ -1,0 +1,14 @@
+{
+  "description": "Kiểm soát cách agent điều phối lệnh gọi công cụ.",
+  "invalidNumber": "Nhập một số, hoặc để trống để dùng mặc định.",
+  "maxParallel": "Lệnh gọi công cụ song song",
+  "maxParallelHint": "Số lệnh gọi an toàn song song tối đa chạy cùng lúc trong một bước.",
+  "overridden": "Bị ghi đè",
+  "readOnly": "Bản triển khai này lưu cài đặt ở chế độ chỉ đọc.",
+  "reset": "Đặt lại mặc định",
+  "save": "Lưu",
+  "saveFailed": "Bản triển khai không chấp nhận các giá trị này; chúng được giữ lại để bạn sửa.",
+  "saving": "Đang lưu…",
+  "title": "Vòng lặp agent",
+  "unavailable": "Plugin này chưa được tải nên hiện không thể cấu hình."
+}
